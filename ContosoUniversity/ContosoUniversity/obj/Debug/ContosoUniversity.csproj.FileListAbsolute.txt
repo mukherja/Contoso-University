@@ -1,0 +1,9 @@
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\obj\Debug\ResolveAssemblyReference.cache
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Amit Mukherjee-Personal\SampleCodes\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
